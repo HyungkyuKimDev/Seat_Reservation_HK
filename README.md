@@ -13,4 +13,11 @@
 
 ## Project Description
 
-Project Build Period : 2024/08/10 ~ 
+Project Build Period : 2024/08/10 ~ Still Now!
+
+Estimated Dates
+
+1. Learning of Spring Boot : 2024/08/10 ~ 10/31
+2. Building The Project : 2024/11/01 ~ 12/31
+3. CI/CD & Presentation Preparation : 2025/01/01 ~ 01/31
+
